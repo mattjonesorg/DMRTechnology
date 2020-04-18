@@ -11,7 +11,7 @@
     <groupId>com.dmrtech</groupId>
     <artifactId>monolith</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>monolith</name>
+    <name>calendarapp</name>
     <description>Derek Rashid and Matt's kafka microservice for GOTO 2020.</description>
 
     <properties>
